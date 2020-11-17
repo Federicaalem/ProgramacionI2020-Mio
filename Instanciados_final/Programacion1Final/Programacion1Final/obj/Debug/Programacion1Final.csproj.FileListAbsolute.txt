@@ -1,0 +1,24 @@
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\bin\Debug\Programacion1Final.exe.config
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\bin\Debug\Programacion1Final.exe
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\bin\Debug\Programacion1Final.pdb
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.Properties.Resources.resources
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.exe
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.pdb
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.Form2_dtg.resources
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.Form1_Inscripcion.resources
+C:\Users\Usuario\Desktop\desarrollo de Software 2020\Programacion I\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.MessageCreate.resources
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\bin\Debug\Programacion1Final.exe.config
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\bin\Debug\Programacion1Final.exe
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\bin\Debug\Programacion1Final.pdb
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.csprojAssemblyReference.cache
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.Form2_dtg.resources
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.Form1_Inscripcion.resources
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.MessageCreate.resources
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.Properties.Resources.resources
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.csproj.GenerateResource.cache
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.csproj.CoreCompileInputs.cache
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.exe
+C:\VSFefe_2020\ProgramacionI2020-\fiaal\Programacion1Final\Programacion1Final\obj\Debug\Programacion1Final.pdb
